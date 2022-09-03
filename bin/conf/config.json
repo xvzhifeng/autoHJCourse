@@ -1,0 +1,16 @@
+{
+    "WSPATH": "192.168.98.91:3737",
+	"ERRURLBASE": "D:\\errimgs",
+	"VPN_GROUP": "1",
+    "FORM_DOWNLOAD_PATH" : "G:/code/gitee/xy/XYBank/bin/temp/",
+    "LOG_PATH" : ".\\Log\\",
+    "IMACROS_TIME_OUT" : 60,
+    "MILLISECOND" : 1000,
+	"CAPTCHA_FILE" : "captcha.png",
+	"stDBHost" : "localhost",
+	"port" : "3306",
+	"stDBUser" : "root",
+	"stDBPass" : "123456",
+	"stDBName" : "xycommands",
+	"isEnableSCBThaiShow" : 1
+}

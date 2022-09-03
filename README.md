@@ -1,0 +1,2 @@
+# autoHJCourse
+Automatic learning lessons

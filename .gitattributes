@@ -5,3 +5,4 @@
 *.roff linguist-language=Python
 *.Roff linguist-language=Python
 *.py linguist-vendored=false
+*.rdoc linguist-language=Python

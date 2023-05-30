@@ -1,5 +1,2 @@
 *.py linguist-language=python
 *.md linguist-language=md
-*.js linguist-language=js
-*.html linguist-language=html
-*.java linguist-language=java

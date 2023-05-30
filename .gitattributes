@@ -2,3 +2,4 @@
 *.md linguist-language=md
 *.py linguist-language=Python
 *.roff linguist-language=Python
+*.Roff linguist-language=Python

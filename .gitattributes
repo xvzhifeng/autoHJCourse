@@ -1,5 +1,6 @@
 *.py linguist-language=python
 *.md linguist-language=md
-*.py linguist-language=Python
+*.Py linguist-language=Python
 *.roff linguist-language=Python
 *.Roff linguist-language=Python
+*.py linguist-vendored=false
